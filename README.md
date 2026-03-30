@@ -2,13 +2,13 @@
 
 Markdown
 
-\# Campus Course & Records Management System
+\# Campus Course Records Management System
 
 This is a comprehensive console-based Java application designed to manage the core data and processes of a higher education institution. It's built to handle everything from student and course information to managing enrollments and grades, all while keeping your data safe with robust file operations.
 
 \# Project Overview
 
-The Campus Course & Records Manager (CCRM) is a hands-on project that puts fundamental and advanced Java programming concepts into a single, functional application. It's a great example of object-oriented programming, modern Java APIs, and file handling in action.
+The Campus Course & Records Manager  is a hands-on project that puts fundamental and advanced Java programming concepts into a single, functional application. It's a great example of object-oriented programming, modern Java APIs, and file handling in action.
 
 Key Features:
 
