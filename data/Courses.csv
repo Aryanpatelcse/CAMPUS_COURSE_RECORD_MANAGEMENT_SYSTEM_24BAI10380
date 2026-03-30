@@ -1,0 +1,2 @@
+CourseID,CourseCode,Title,CreditHours,InstructorID,Semester,Department,Description,IsActive
+3000,2006,cse,20,121,SUMMER,COMPUTER_SCIENCE,,true
