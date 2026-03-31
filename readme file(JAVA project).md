@@ -123,4 +123,4 @@ To enable assertions, you just need to use the \-ea or \--enableassertions flag 
 
 Bash
 
-java \-ea com.ccrm.CampusCourseRecordsManager  
+java \-ea com.ccrm.CampusCourseRecordsManagementSystem  
